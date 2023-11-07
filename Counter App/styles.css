@@ -1,0 +1,66 @@
+body {
+  background-image: url(/Images/Flinders\ Station.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+  text-align: center;
+  font-size: xx-large;
+  color: aliceblue;
+  height: 100vh;
+  width: 100vw;
+}
+
+.final-div {
+  max-width: 100vw;
+}
+
+h1 {
+  background-color: black;
+  border-radius: 10px;
+  padding: 6px 15px;
+  width: 489px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  background-color: black;
+  border-radius: 10px;
+  padding: 6px 15px;
+  width: 117px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#increment-btn {
+  width: 76px;
+  height: 76px;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.plus-btn {
+  width: 60px;
+  height: 60px;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
+.plus-btn:hover {
+  height: 62px;
+  width: 62px;
+}
+
+#save-btn {
+  width: 71px;
+  height: 35px;
+}
+
+.previous-count {
+  color: rgb(128, 0, 60);
+  background-color: aliceblue;
+  width: 365px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
